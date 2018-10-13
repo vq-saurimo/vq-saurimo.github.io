@@ -1,0 +1,14 @@
+Package: com.vq.test
+Name: Test Repo
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: A complete download manager
+Author: hà
+Maintainer: hà
+Section: Tweaks
+Depends: firmware (>= 9.0)
+Size:5554254	
+MD5:3c5f3ed7e29cc3142cde0b4643939125  
+Filename: ./debs/test.deb
+SHA1:bed0a03208ff5c6ea29bd0466df43066d23366d6  
+SHA256:13a71b0338a01c3540beeed13316e624c5ce8e12e5a46d211e45656e3e1c1ee3  
