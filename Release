@@ -1,7 +1,16 @@
-Origin: Vũ Quang Repo
-Label: Vq Saurimo
+Origin: Vq Repo ✍️
+Label: vq-saurimo
+Origin: Vq Repo ✍️
 Version: 1.0
-Codename: Vq Saurimo
+Codename: vq-saurimo
 Architecture: iphoneos-arm
 Components: main
-Description:Vũ Quang REpo
+Description: Nguồn của ♻️BVQ và NVH♻️!! Chuyên Hệ thống!!
+
+MD5sum:
+
+2775954ddf2bbb2863c15405a634f21a  
+492	Packages
+
+c95dd66eab52117ce6e75f13e15194a7  
+418	Packages.bz2
