@@ -1,6 +1,6 @@
 Origin: Vq Repo ✍️
 Label: vq-saurimo
-Origin: Vq Repo ✍️
+Suite: stable
 Version: 1.0
 Codename: vq-saurimo
 Architecture: iphoneos-arm
@@ -9,8 +9,8 @@ Description: Nguồn của ♻️BVQ và NVH♻️!! Chuyên Hệ thống!!
 
 MD5sum:
 
-2775954ddf2bbb2863c15405a634f21a  
-492	Packages
+142ac7e6cdde6b71a676308dc0e3140a  
+1443	Packages
 
-c95dd66eab52117ce6e75f13e15194a7  
-418	Packages.bz2
+590b1c20e6d736388d56bd233405583c  
+716	Packages.bz2

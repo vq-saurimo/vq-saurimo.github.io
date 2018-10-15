@@ -1,16 +1,48 @@
 
-Package: com.vq.carxs
-Name: Assets.car Xs
-Version: 1~iPhone6
+Package: vq.ui-xsi6
+Name: Assets.car Xs for 6/6s
+Version: 1.0
 Architecture: iphoneos-arm
-Description: Assets.car iPhone Xs for iPhone 5s/6/6s
+Description: Assets.car iPhone Xs for iPhone 6/6s
 Depiction:
 Author: Bùi Vũ Quang
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: UiKit
 Depends: mobilesubstrate
-Size:1004	
-MD5:a6e063249f2b3b9f4700b455aade6b7a  
-Filename: ./debs/com.vq.carxs_1~iPhone6_iphoneos-arm.deb
-SHA1:0b0412468dc267c7d822cc9dd91c5e9c53f829bf  
-SHA256:8a9619f802ff1be4d8f0ded6e70663ea6381989fc7359ee15375bed9f14929d4  
+Size:1106	
+MD5:6f3612b2e97276025e9d141b42e0c6d0  
+Filename: ./debs/vq.ui-xsi6_1.0_iphoneos-arm.deb
+SHA1:b0ccbace845146c1342b37d0f580c4ef20ee22bc  
+SHA256:4dbdcf95574e6d77b681bb900f2f7f064883d9f7201fd0854fa5730429885375  
+
+Package: vq.ui-xsip
+Name: Assets.car Xs for Plus
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Assets.car iPhone Xs for iPhone Plus
+Depiction:
+Author: Bùi Vũ Quang
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: UiKit
+Depends: mobilesubstrate
+Size:1104	
+MD5:f870dde23390e373f3a8b81ca692c6b9  
+Filename: ./debs/vq.ui-xsip_1.0_iphoneos-arm.deb
+SHA1:ab993df9252f7c5655aa35739079cd13e20b2301  
+SHA256:b4af9c9078470be6ae32b3186e6ecfb9d1afaac9d6dc9e10848f2e3b0b2e4ec3  
+
+Package: vq.ui-xsix
+Name: Assets.car Xs for 6/6s
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Assets.car iPhone Xs for iPhone X
+Depiction:
+Author: Bùi Vũ Quang
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: UiKit
+Depends: mobilesubstrate
+Size:1100	
+MD5:84abca7f5bc1b0aed352f206558df50d  
+Filename: ./debs/vq.ui-xsix_1.0_iphoneos-arm.deb
+SHA1:6bf88999921f469ee099a19ccd4e07b83953211e  
+SHA256:6849b3363be741db839592cc3c2a083fe7781a2ac2bede77cfa998ad3a8fe441  
