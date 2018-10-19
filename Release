@@ -5,12 +5,10 @@ Version: 1.0
 Codename: vq-saurimo
 Architecture: iphoneos-arm
 Components: main
-Description: Nguồn của ♻️BVQ và NVH♻️!! Chuyên Hệ thống!!
+Description: Nguồn của ♻️Bùi Vũ Quang♻️!! Chuyên Hệ thống!!
 
 MD5sum:
 
-142ac7e6cdde6b71a676308dc0e3140a  
-1443	Packages
+2ff6c88bb378e50520c70e558cfbd120 2179 Packages
 
-590b1c20e6d736388d56bd233405583c  
-716	Packages.bz2
+1dab5b7b697b6856f183ef12381da156 971 Packages.bz2
