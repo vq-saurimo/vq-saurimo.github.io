@@ -1,77 +1,78 @@
-Package: vq.ui-xsix
-Name: Assets.car Xs for iPhone X
+Package: vq.iconrepo
+Name: Vq-saurimo iCons
 Version: 1.0
+Essential: yes
 Architecture: iphoneos-arm
-Description: Assets.car iPhone Xs for iPhone X
-Depiction:
+Description: iCon Repo of Vq-Saurimo
 Author: Bùi Vũ Quang
-Maintainer: Fah
-Section: UiKit
-Depends: vq.iconrepo
-Size:1074	
-MD5:4ed3a8f102d22691fd95449ff4f5fc7a  
-Filename: ./debs/vq.ui-xsix_1.0_iphoneos-arm.deb
-SHA1:3e21753debc577271c02b3dffbb087fa15ff07c3  
-SHA256:d20e55d096df157f24f876774f5ccf95ca07b1a3c1ecda7d310cac11bb5c64ba  
-
-Package: vq.ui-xsi6
-Name: Assets.car Xs for iPhone 6/6s
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Assets.car iPhone Xs for iPhone 6/6s
-Depiction:
-Author: Bùi Vũ Quang
-Maintainer: Fah
-Section: UiKit
-Depends: vq.iconrepo
-Size:1072	
-MD5:91764b7aa6584599daa6865e8c036f76  
-Filename: ./debs/vq.ui-xsi6_1.0_iphoneos-arm.deb
-SHA1:95dc7f95bd4016187b78f6f447aff9bc568f7a96  
-SHA256:ef5b94098835ff080ffe77553086dee2087191c4b4b2d7222150454ecda71581  
-
-Package: vq.ui-xsip
-Name: Assets.car Xs for iPhone Plus
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Assets.car iPhone Xs for iPhone Plus
-Depiction:
-Author: Bùi Vũ Quang
-Maintainer: Fah
-Section: UiKit
-Depends: vq.iconrepo
-Size:1074	
-MD5:7243d097da3918d220e085579c5c228f  
-Filename: ./debs/vq.ui-xsip_1.0_iphoneos-arm.deb
-SHA1:8fcc502e39ddbc5112788ec5c581742151a150cc  
-SHA256:dd35684e4c8d4dd0034c37d2c9c54fd32a142b668e496f48f5d2b28bb18622c1  
+Section: System
+Maintainer: fah
+Size:5352
+MD5: 9f13ffa4cea521bd0177c524bade2d87  
+Filename: ./debs/vq.iconrepo_1.0_iphoneos-arm.deb
+SHA1: b80d851130abb23a7ec60bc59bf5a6a0cda51995  
+SHA256: 632063d1b6b41781450f056bb7f1ae510d63785a059a563d8b472e544b441524
 
 Package: vq.ms1
 Name: Assets.car Music 1
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Assets.car Music for iPhone
 Depiction:
 Author: Bùi Vũ Quang
 Maintainer: Fah
 Section: Music
-Depends: vq.iconrepo
-Size:1076	
-MD5:6838b4d80310ddb06bf6a13417da39bd  
-Filename: ./debs/vq.ms1_1.0_iphoneos-arm.deb
-SHA1:51ebca9cdf2dd6d0c9e50316f81db650b1b49972  
-SHA256:7a1a0cca41908826f8d26fc36563103bbf772d4eb5781df2150c35ae775ef23e  
+Depends: vq.iconrepo , firmware (>=11.0)
+Size:1108	
+MD5:714de76d2e67e3d7332c20ad769a495f  
+Filename: ./debs/vq.ms1_1.1_iphoneos-arm.deb
+SHA1:a4e6ca347a336c4fc3ad967775938c22ead786c4  
+SHA256:dcd9d80f9d0a1460e37b3bc14564d3652a44cfb0340ed7153199148c6b8c40b7  
 
-Package: vq.iconrepo
-Name: Vq-saurimo iCons
-Version: 1.0
+Package: vq.ui-xsi6
+Name: Assets.car Xs for iPhone 6/6S
+Version: 1.1
 Architecture: iphoneos-arm
-Description: iCon Repo
+Description: Assets.car iPhone Xs for iPhone 6/6S
+Depiction:
 Author: Bùi Vũ Quang
-Section: Music
-Maintainer: Nguyễn Văn Hà
-Size:5352
-MD5: 9f13ffa4cea521bd0177c524bade2d87  
-Filename: ./debs/vq.iconrepo_1.0_iphoneos-arm.deb
-SHA1: b80d851130abb23a7ec60bc59bf5a6a0cda51995  
-SHA256: 632063d1b6b41781450f056bb7f1ae510d63785a059a563d8b472e544b441524
+Maintainer: Fah
+Section: UiKit
+Depends: vq.iconrepo , firmware (>=11.0)
+Size:1212	
+MD5:f20cf986bc407aa5e87f6523624c838b  
+Filename: ./debs/vq.ui-xsi6_1.1_iphoneos-arm.deb
+SHA1:135d668b921e28f36faa38fc306c5fd0f8c36fa5  
+SHA256:8db62b3d5ce7ca4f9787af97224eade626a450efa6af5cf52065556b2f90d8fb  
+
+Package: vq.ui-xsip
+Name: Assets.car Xs for iPhone Plus
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Assets.car iPhone Xs for iPhone Plus
+Depiction:
+Author: Bùi Vũ Quang
+Maintainer: Fah
+Section: UiKit
+Depends: vq.iconrepo , firmware (>=11.0)
+Size:1214	
+MD5:d7eab6434ac9ba7bd7cf88fd1ce166a5  
+Filename: ./debs/vq.ui-xsip_1.1_iphoneos-arm.deb
+SHA1:1c8339fde02ab7e38d5593d5547c286201882cd6  
+SHA256:bf6528e94c82dc76ac3651a206498e2dbce1151795db3ee54a89f2b70cafad64  
+
+Package: vq.ui-xsix
+Name: Assets.car Xs for iPhone X
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Assets.car iPhone Xs for iPhone X
+Depiction:
+Author: Bùi Vũ Quang
+Maintainer: Fah
+Section: UiKit
+Depends: vq.iconrepo , firmware (>=11.0)
+Size:1212	
+MD5:4f940a0cc6f3cf2b39b95b685b058e66  
+Filename: ./debs/vq.ui-xsix_1.1_iphoneos-arm.deb
+SHA1:4c13c8517ed8f023c06890716e71297f99275426  
+SHA256:ce1e912c37e4eb4ad258afce2236d9d2769f9715fe6446d914e9d8e4840e3344  
